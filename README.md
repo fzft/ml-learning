@@ -7,6 +7,7 @@ This repository is dedicated to machine learning tutorials, with a particular fo
 - Huggingface Models
 - [Umar jamil](https://www.youtube.com/@umarjamilai)
 - [Ahlad Kumar](https://www.youtube.com/@AhladKumar)
+- 
 
 ## Andrej Karpathy's Open Class
 
@@ -16,3 +17,6 @@ This section of the repository contains materials, notes, and code snippets rela
 
 Huggingface has established itself as a forefront institution in democratizing machine learning, especially in the realm of Natural Language Processing. This section contains tutorials, code examples, and applications of various Huggingface models, making it easier for learners to harness the power of state-of-the-art models.
 
+## Umar Jamil
+
+## Ahlad Kumar
