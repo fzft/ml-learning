@@ -3,8 +3,10 @@
 This repository is dedicated to machine learning tutorials, with a particular focus on well-known resources and frameworks.
 
 ## Contents
-- Andrej Karpathy's Open Class
+- [Andrej Karpathy's Open Class](https://www.youtube.com/@AndrejKarpathy)
 - Huggingface Models
+- [Umar jamil](https://www.youtube.com/@umarjamilai)
+- [Ahlad Kumar](https://www.youtube.com/@AhladKumar)
 
 ## Andrej Karpathy's Open Class
 
