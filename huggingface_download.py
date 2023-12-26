@@ -7,7 +7,7 @@ local_root_cache_dir = '/mnt/sda/huggingface/data/cache'
 token = os.environ["HF_TOKEN"]
 
 # Replace this if you want to use a different model
-model_id = "meta-llama/Llama-2-7b-hf"
+model_id = "SparseLLM/ReluFalcon-40B"
 path_model = os.path.join(local_root_model_dir, model_id)
 path_cache = os.path.join(local_root_cache_dir, model_id)
 
