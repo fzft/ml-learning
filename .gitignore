@@ -1,0 +1,9 @@
+venv/
+.env
+.vscode/
+.ipynb_checkpoints/
+model/
+
+# any .pth or pt files
+*.pth
+*.pt
